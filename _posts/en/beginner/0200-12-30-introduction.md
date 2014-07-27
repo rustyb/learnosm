@@ -6,7 +6,7 @@ lang: en
 category: beginner
 ---
 
-Introduction
+Introduction - FINGAL/LESOTHO GUIDE
 ============
 
 Information is powerful. With good information and the right
